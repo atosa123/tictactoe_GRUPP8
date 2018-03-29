@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -196,5 +197,10 @@ public class GameController : MonoBehaviour {
 		playerX.text.color = inactivePlayerColor.textColor;
 		playerO.panel.color = inactivePlayerColor.panelColor;
 		playerO.text.color = inactivePlayerColor.textColor;
+	}
+
+	public void ReturnToMenu()
+	{
+	    SceneManager.LoadScene("Menu");
 	}
 }
