@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spelet", "Assembly-CSharp.csproj", "{7B485EB8-99CA-3672-6A58-4F0F0664954D}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spelet", "Spelet.csproj", "{1F292EFA-A4CE-DF25-2E61-A7BA3CD9B4C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B485EB8-99CA-3672-6A58-4F0F0664954D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B485EB8-99CA-3672-6A58-4F0F0664954D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B485EB8-99CA-3672-6A58-4F0F0664954D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B485EB8-99CA-3672-6A58-4F0F0664954D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F292EFA-A4CE-DF25-2E61-A7BA3CD9B4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F292EFA-A4CE-DF25-2E61-A7BA3CD9B4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F292EFA-A4CE-DF25-2E61-A7BA3CD9B4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F292EFA-A4CE-DF25-2E61-A7BA3CD9B4C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
